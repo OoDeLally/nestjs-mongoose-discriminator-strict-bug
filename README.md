@@ -1,0 +1,1 @@
+# nestjs-mongoose-discriminator-strict-bug
